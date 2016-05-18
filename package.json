@@ -1,0 +1,11 @@
+{
+  "name": "aws-cognito-for-node",
+  "version": "0.1.0",
+  "description": "A Proof of Concept for AWS Cognito in a node Envirornment",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Kade S. Green",
+  "license": "ISC"
+}
